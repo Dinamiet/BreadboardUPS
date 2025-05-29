@@ -3510,7 +3510,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fda0fd6-213f-4e1c-9841-1e3f306051cc")
-		(property "Reference" "SW"
+		(property "Reference" "SW?"
 			(at 60.96 153.67 0)
 			(effects
 				(font
@@ -3561,6 +3561,10 @@
 		)
 		(instances
 			(project "BreadboardUPS"
+				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
+					(reference "SW?")
+					(unit 1)
+				)
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
 					(reference "SW1")
 					(unit 1)
