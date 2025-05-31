@@ -2330,6 +2330,12 @@
 		(uuid "062ff695-dadc-4efe-82c8-dd1e7274af83")
 	)
 	(junction
+		(at 154.94 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f7f990b-1232-47b4-8df8-2732155b4413")
+	)
+	(junction
 		(at 123.19 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2414,18 +2420,6 @@
 		(uuid "8eb71198-6f29-4140-ae65-8762b6ead21d")
 	)
 	(junction
-		(at 154.94 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8faf932d-4a6c-485b-adde-ba6e78523d5a")
-	)
-	(junction
-		(at 133.35 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "97726ae9-5fe8-41a4-b39b-0a5afdd5dcf4")
-	)
-	(junction
 		(at 175.26 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2478,6 +2472,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5e4ba25-6acd-40a7-9d49-28cc034e93be")
+	)
+	(junction
+		(at 151.13 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6103563-f1c8-46eb-a12a-78daccf23ee5")
 	)
 	(junction
 		(at 45.72 106.68)
@@ -2559,16 +2559,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 106.68) (xy 154.94 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e9185cf-ec5c-4b59-8e53-abb8c68cb6b5")
-	)
-	(wire
-		(pts
 			(xy 77.47 114.3) (xy 83.82 114.3)
 		)
 		(stroke
@@ -2576,6 +2566,16 @@
 			(type default)
 		)
 		(uuid "1412c314-b2b9-4c7d-8e61-5a0ca3824094")
+	)
+	(wire
+		(pts
+			(xy 154.94 134.62) (xy 151.13 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14e3d901-54b8-47c6-9e3e-e291f7ade399")
 	)
 	(wire
 		(pts
@@ -2646,16 +2646,6 @@
 			(type default)
 		)
 		(uuid "21c9632f-d4eb-4696-b6aa-dca8a85b0c91")
-	)
-	(wire
-		(pts
-			(xy 133.35 134.62) (xy 154.94 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2be447cf-03e1-489e-b3e5-0bbe8e792db0")
 	)
 	(wire
 		(pts
@@ -2789,16 +2779,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 134.62) (xy 154.94 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "491429f8-c1c7-4822-b7b2-d46f4e81f5d7")
-	)
-	(wire
-		(pts
 			(xy 199.39 58.42) (xy 199.39 53.34)
 		)
 		(stroke
@@ -2879,7 +2859,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 106.68) (xy 162.56 106.68)
+			(xy 142.24 106.68) (xy 154.94 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3019,6 +2999,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 106.68) (xy 162.56 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8853d474-3dc8-4242-a0f9-c09be32ab499")
+	)
+	(wire
+		(pts
 			(xy 78.74 124.46) (xy 78.74 132.08)
 		)
 		(stroke
@@ -3089,7 +3079,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 134.62) (xy 133.35 134.62)
+			(xy 130.81 134.62) (xy 151.13 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3106,6 +3096,16 @@
 			(type default)
 		)
 		(uuid "9c74c018-b7aa-465f-b528-dc26a9c81178")
+	)
+	(wire
+		(pts
+			(xy 154.94 106.68) (xy 154.94 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cb48b5f-e29e-4fec-bbbe-230f92573917")
 	)
 	(wire
 		(pts
@@ -3259,16 +3259,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 106.68) (xy 154.94 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c54da442-a67e-45e7-83de-3c4d996f1618")
-	)
-	(wire
-		(pts
 			(xy 45.72 106.68) (xy 52.07 106.68)
 		)
 		(stroke
@@ -3316,6 +3306,16 @@
 			(type default)
 		)
 		(uuid "d2690cfc-a1bb-4006-948f-161b4a674562")
+	)
+	(wire
+		(pts
+			(xy 154.94 124.46) (xy 154.94 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3d10a48-f16a-493e-ae2b-e8d349f00b85")
 	)
 	(wire
 		(pts
@@ -3457,6 +3457,75 @@
 			(justify left)
 		)
 		(uuid "f9f7c269-06ca-4932-a445-7f46cfd145d3")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 154.94 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0105088a-c3c7-4e4e-8410-42c4a867a52a")
+		(property "Reference" "R209"
+			(at 155.194 126.492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 156.718 128.778 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 153.162 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 154.94 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e91ad01c-4300-479b-a54c-abd0c6a944ab")
+		)
+		(pin "2"
+			(uuid "698edbde-c17b-402a-ae59-fc5090ada057")
+		)
+		(instances
+			(project "BreadboardUPS"
+				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/60b998c9-c5a3-404e-89bd-843282e77358"
+					(reference "R209")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -3955,16 +4024,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 133.35 134.62 0)
+		(at 151.13 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "22b3299b-9c1f-4c75-a26a-107ee565f3c2")
 		(property "Reference" "TP201"
-			(at 135.89 130.0479 0)
+			(at 144.78 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +4041,7 @@
 			)
 		)
 		(property "Value" "~{PG}"
-			(at 135.89 132.5879 0)
+			(at 144.78 138.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +4050,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 138.43 134.62 0)
+			(at 156.21 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3991,7 +4059,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 134.62 0)
+			(at 156.21 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4000,7 +4068,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 133.35 134.62 0)
+			(at 151.13 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4240,7 +4308,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 130.556 0)
+			(at 145.542 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,76 +4809,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/60b998c9-c5a3-404e-89bd-843282e77358"
 					(reference "U201")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 154.94 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8975449b-42b7-4ff5-951e-0ae5003341c1")
-		(property "Reference" "R209"
-			(at 157.48 126.9999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 157.48 129.5399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 153.162 128.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 154.94 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 154.94 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "897a3d88-8871-4b07-98dc-ca42463793b7")
-		)
-		(pin "2"
-			(uuid "d5406947-3210-4072-9a57-1262fc0d1670")
-		)
-		(instances
-			(project "BreadboardUPS"
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/60b998c9-c5a3-404e-89bd-843282e77358"
-					(reference "R209")
 					(unit 1)
 				)
 			)
@@ -5523,7 +5521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "Vreg"
 			(at 168.91 103.3779 0)
 			(effects
 				(font
