@@ -4236,7 +4236,7 @@
 				)
 			)
 		)
-		(property "Value" "Barrel_Jack_MountingPin"
+		(property "Value" "DC In"
 			(at 29.21 102.87 0)
 			(effects
 				(font
@@ -5375,7 +5375,7 @@
 				)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
+		(property "Value" "USB Only"
 			(at 209.55 49.53 0)
 			(effects
 				(font

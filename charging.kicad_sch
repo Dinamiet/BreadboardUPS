@@ -4439,7 +4439,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "BatteryCell"
 			(at 97.79 155.6384 0)
 			(effects
 				(font
