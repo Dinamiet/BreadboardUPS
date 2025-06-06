@@ -2625,7 +2625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias"
+		(property "Footprint" "Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm"
 			(at 129.54 55.88 0)
 			(effects
 				(font
