@@ -3570,10 +3570,6 @@
 					(reference "TP402")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "TP502")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3643,10 +3639,6 @@
 					(reference "C401")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C501")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3710,10 +3702,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0408")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0508")
 					(unit 1)
 				)
 			)
@@ -3785,10 +3773,6 @@
 					(reference "C406")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C506")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3852,10 +3836,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0402")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0502")
 					(unit 1)
 				)
 			)
@@ -3927,10 +3907,6 @@
 					(reference "R408")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R508")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3998,10 +3974,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "C407")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C507")
 					(unit 1)
 				)
 			)
@@ -4082,10 +4054,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "SW401")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "SW501")
 					(unit 1)
 				)
 			)
@@ -4206,10 +4174,6 @@
 					(reference "U401")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "U501")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4277,10 +4241,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "R401")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R501")
 					(unit 1)
 				)
 			)
@@ -4362,10 +4322,6 @@
 					(reference "C403")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C503")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4443,10 +4399,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "R407")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R507")
 					(unit 1)
 				)
 			)
@@ -4532,10 +4484,6 @@
 					(reference "Q403")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "Q503")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4613,10 +4561,6 @@
 					(reference "L401")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "L501")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4681,10 +4625,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0403")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0503")
 					(unit 1)
 				)
 			)
@@ -4752,10 +4692,6 @@
 					(reference "#PWR0405")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0505")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4821,10 +4757,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "TP404")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "TP504")
 					(unit 1)
 				)
 			)
@@ -4906,10 +4838,6 @@
 					(reference "R406")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R506")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4989,10 +4917,6 @@
 					(reference "R405")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R505")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5063,10 +4987,6 @@
 					(reference "C405")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C505")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5130,10 +5050,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0404")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0504")
 					(unit 1)
 				)
 			)
@@ -5213,10 +5129,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "D401")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "D501")
 					(unit 1)
 				)
 			)
@@ -5304,10 +5216,6 @@
 					(reference "Q401")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "Q501")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5371,10 +5279,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0406")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0506")
 					(unit 1)
 				)
 			)
@@ -5460,10 +5364,6 @@
 					(reference "Q402")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "Q502")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5529,10 +5429,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "TP401")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "TP501")
 					(unit 1)
 				)
 			)
@@ -5602,10 +5498,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "C402")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C502")
 					(unit 1)
 				)
 			)
@@ -5678,10 +5570,6 @@
 					(reference "R409")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R509")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5749,10 +5637,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "R402")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R502")
 					(unit 1)
 				)
 			)
@@ -5824,10 +5708,6 @@
 					(reference "R404")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R504")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5895,10 +5775,6 @@
 					(reference "SW402")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "SW502")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5962,10 +5838,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0407")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0507")
 					(unit 1)
 				)
 			)
@@ -6037,10 +5909,6 @@
 					(reference "C404")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "C504")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6106,10 +5974,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "#PWR0401")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "#PWR0501")
 					(unit 1)
 				)
 			)
@@ -6182,10 +6046,6 @@
 					(reference "R403")
 					(unit 1)
 				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "R503")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6250,10 +6110,6 @@
 			(project "BreadboardUPS"
 				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/18807fed-8172-4214-972d-ede11085980e"
 					(reference "TP403")
-					(unit 1)
-				)
-				(path "/3f1ccd97-6ac6-4e7a-a00a-840cd07719d8/4649fa7b-adfb-4d4b-ad62-a47049ee155c"
-					(reference "TP503")
 					(unit 1)
 				)
 			)
