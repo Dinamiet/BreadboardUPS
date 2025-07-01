@@ -3512,7 +3512,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ExternalPower"
+		(property "Value" "ExtPwr"
 			(at 181.61 54.9274 90)
 			(effects
 				(font
@@ -4457,7 +4457,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Charging"
+		(property "Value" "Chrg"
 			(at 166.37 54.9274 90)
 			(effects
 				(font
