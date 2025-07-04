@@ -678,5 +678,7 @@
       "Supply1"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "VERSION": "01.00"
+  }
 }
