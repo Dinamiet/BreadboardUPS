@@ -2779,7 +2779,7 @@
 			)
 		)
 		(property "Value" "BAT"
-			(at 1 7.45 0)
+			(at 0.916 -4.07 0)
 			(layer "F.Fab")
 			(uuid "324abe2b-92ce-4508-9500-db8087e37d76")
 			(effects
